@@ -1,1 +1,1 @@
-# printarray
+# Simple print an array
